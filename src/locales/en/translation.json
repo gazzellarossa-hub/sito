@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "name": "Caretta caretta Home"
+  },
+  "nav": {
+    "home": "Home",
+    "apartments": "Apartments",
+    "beaches": "The Beaches",
+    "photos": "Photos",
+    "contact": "Contact"
+  },
+  "footer": {
+    "contact_title": "Contact",
+    "social_title": "Follow Us on Social Media",
+    "copyright": "All rights reserved.",
+    "made_by": "Created by Rosario"
+  },
+  "index": {
+    "hero_title": "Caretta caretta Home",
+    "hero_text": "Welcome to your oasis of peace on the enchanting island of Lampedusa. Immerse yourself in unspoiled beauty, among golden beaches and crystal-clear waters. Our facility offers an unforgettable stay, combining modern comfort and authentic Mediterranean charm. Explore the natural wonders, savor the local cuisine, and relax in a serene environment.",
+    "apartments_title": "Our Apartments",
+    "apartment_pulcino_title": "Cala Pulcino Apartment (Roma Side)",
+    "apartment_pulcino_desc": "The Cala Pulcino Apartment is a bright and spacious retreat, ideal for couples or small families. It features a double bedroom (+ single bed), a cozy living room/kitchen with a sofa bed, a fully equipped kitchen, and a modern bathroom.",
+    "apartment_creta_title": "Cala Creta Apartment (Ariosto Side)",
+    "apartment_creta_desc": "The Cala Creta Apartment offers an intimate and relaxing atmosphere, perfect for those seeking tranquility. It includes a double bedroom, a living room/kitchen with a sofa bed, a fully equipped kitchen, a modern and elegant bathroom, and a balcony."
+  },
+  "features": {
+    "double_bed_single": "Double bedroom + single bed",
+    "double_bed": "Double bedroom",
+    "living_kitchen_sofa": "Living room/kitchen with sofa bed",
+    "equipped_kitchen": "Fully equipped kitchen",
+    "modern_bathroom": "Modern bathroom",
+    "elegant_bathroom": "Modern and elegant bathroom",
+    "air_conditioning": "Air conditioning",
+    "balcony": "Balcony"
+  },
+  "apartments_page": {
+    "subtitle": "Discover our cozy apartments, designed to offer you maximum comfort and relaxation during your stay in Lampedusa.",
+    "cta_title": "Request Information or Book Now!",
+    "cta_subtitle": "Contact us to check availability and receive a personalized quote for your dream vacation.",
+    "cta_button": "Request Info & Reservations"
+  },
+  "beaches_page": {
+    "title": "The Beaches and Coves of Lampedusa",
+    "subtitle": "Lampedusa is a jewel of the Mediterranean, famous for its breathtaking beaches and crystal-clear waters. Explore the natural wonders of the island, each with its unique charm.",
+    "access_label": "How to reach it:",
+    "distance_label": "Distance from Via Ariosto 49:",
+    "beach_conigli_name": "Spiaggia dei Conigli (Rabbit Beach)",
+    "beach_conigli_desc": "Considered one of the most beautiful beaches in the world, Spiaggia dei Conigli is a natural paradise with fine white sand and turquoise waters. It is also an important nesting site for Caretta caretta sea turtles. <strong>Attention: reservation is mandatory to access the beach.</strong> You can make it through the official website: <a href='https://www.prenotazionespiaggiaconigli.it/' target='_blank' rel='noopener noreferrer' class='text-blue-500 hover:underline'>prenotazionespiaggiaconigli.it</a>.",
+    "beach_conigli_access": "Reachable on foot via a path of about 20 minutes from the parking lot, or by sea.",
+    "beach_conigli_distance": "About 7 km from Via Ariosto 49 (15-20 minutes by car + walk).",
+    "beach_pulcino_name": "Cala Pulcino",
+    "beach_pulcino_desc": "Reachable via a panoramic (more challenging) path or by sea, Cala Pulcino enchants with its clear waters and wild nature. An ideal place for snorkeling and enjoying peace and tranquility.",
+    "beach_pulcino_access": "Accessible via a walking path of about 40 minutes or by sea with boats.",
+    "beach_pulcino_distance": "About 8 km from Via Ariosto 49 (20 minutes by car + walk).",
+    "beach_croce_name": "Cala Croce",
+    "beach_croce_desc": "One of the most accessible and popular beaches, with fine sand and shallow water, perfect for families with children. It offers beach services and restaurants.",
+    "beach_croce_access": "Easily reachable by car or scooter, with parking available.",
+    "beach_croce_distance": "About 2 km from Via Ariosto 49 (5 minutes by car).",
+    "beach_guitgia_name": "Cala Guitgia",
+    "beach_guitgia_desc": "Located near the town center, it is a golden sand beach with calm, crystal-clear waters. Very convenient and well-equipped.",
+    "beach_guitgia_access": "Reachable on foot from the center of Lampedusa or a few minutes by car.",
+    "beach_guitgia_distance": "About 1 km from Via Ariosto 49 (2 minutes by car or 10 minutes on foot).",
+    "beach_madonna_name": "Cala Madonna",
+    "beach_madonna_desc": "A small and enchanting sandy cove, ideal for those seeking a corner of tranquility. Its waters are transparent and inviting.",
+    "beach_madonna_access": "Accessible by car or scooter, with a short walk.",
+    "beach_madonna_distance": "About 2.5 km from Via Ariosto 49 (6 minutes by car).",
+    "beach_greca_name": "Cala Greca",
+    "beach_greca_desc": "A rocky cove with deep, crystal-clear waters, perfect for snorkeling and diving enthusiasts. It offers a wilder and unspoiled landscape.",
+    "beach_greca_access": "Reachable by car or scooter, with a short rocky path to descend.",
+    "beach_greca_distance": "About 3 km from Via Ariosto 49 (7 minutes by car).",
+    "beach_creta_name": "Cala Creta",
+    "beach_creta_desc": "Characterized by cliffs and rocky seabed, Cala Creta is a suggestive place for swimming and snorkeling. Its waters are an intense blue.",
+    "beach_creta_access": "Easily reachable by car or scooter, with direct access to the sea from some platforms.",
+    "beach_creta_distance": "About 4 km from Via Ariosto 49 (10 minutes by car).",
+    "beach_pisana_name": "Cala Pisana",
+    "beach_pisana_desc": " A small bay with a tourist harbor, ideal for a refreshing swim and admiring the boats. It also offers a small bar.",
+    "beach_pisana_access": "Reachable by car or scooter, with parking nearby.",
+    "beach_pisana_distance": "About 3.5 km from Via Ariosto 49 (8 minutes by car)."
+  },
+  "photos_page": {
+    "title": "Our Photo Gallery"
+  },
+  "contact_page": {
+    "title": "Contact Us and Find Us",
+    "subtitle": "Do you have questions or want to book your stay? Fill out the form below and click 'Send Message' to open your email application.",
+    "social_title": "Follow Us and Contact Us Directly",
+    "form_title": "Contact Form",
+    "form_name_label": "Name",
+    "form_name_placeholder": "Your name",
+    "form_email_label": "Email",
+    "form_email_placeholder": "Your email",
+    "form_message_label": "Message",
+    "form_message_placeholder": "Your message",
+    "form_button": "Send Message (Open Email Client)",
+    "location_title": "Where We Are",
+    "tab_location": "Location",
+    "tab_directions": "Directions",
+    "directions_text": "To calculate the route from a specific starting point (e.g., the airport or port), open the map and use Google Maps' 'Directions' function.",
+    "map_hint": "Click on the map to open it in Google Maps and calculate the route."
+  }
+}

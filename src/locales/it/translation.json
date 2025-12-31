@@ -1,0 +1,102 @@
+{
+  "brand": {
+    "name": "Caretta caretta Home"
+  },
+  "nav": {
+    "home": "Home",
+    "apartments": "Appartamenti",
+    "beaches": "Le Spiagge",
+    "photos": "Foto",
+    "contact": "Contatti"
+  },
+  "footer": {
+    "contact_title": "Contatti",
+    "social_title": "Seguici sui Social",
+    "copyright": "Tutti i diritti riservati.",
+    "made_by": "Creato da Rosario"
+  },
+  "index": {
+    "hero_title": "Caretta caretta Home",
+    "hero_text": "Benvenuti nella vostra oasi di pace sull'incantevole isola di Lampedusa. Immergetevi nella bellezza incontaminata, tra spiagge dorate e acque cristalline. La nostra struttura offre un soggiorno indimenticabile, combinando comfort moderno e l'autentico fascino mediterraneo. Esplorate le meraviglie naturali, gustate la cucina locale e rilassatevi in un ambiente sereno.",
+    "apartments_title": "I Nostri Appartamenti",
+    "apartment_pulcino_title": "Appartamento Cala Pulcino (Lato Roma)",
+    "apartment_pulcino_desc": "L'Appartamento Cala Pulcino è un rifugio luminoso e spazioso, ideale per coppie o piccole famiglie. Dispone di una camera da letto matrimoniale (+ letto singolo), un accogliente soggiorno/cucina con divano letto, cucina completamente attrezzata e un bagno moderno.",
+    "apartment_creta_title": "Appartamento Cala Creta (Lato Ariosto)",
+    "apartment_creta_desc": "L'Appartamento Cala Creta offre un'atmosfera intima e rilassante, perfetto per chi cerca tranquillità. Comprende una camera da letto matrimoniale, un soggiorno/cucina con divano letto, cucina completamente attrezzata, un bagno moderno ed elegante ed un balcone."
+  },
+  "features": {
+    "double_bed_single": "Camera da letto matrimoniale + letto singolo",
+    "double_bed": "Camera da letto matrimoniale",
+    "living_kitchen_sofa": "Soggiorno/cucina con divano letto",
+    "equipped_kitchen": "Cucina completamente attrezzata",
+    "modern_bathroom": "Bagno moderno",
+    "elegant_bathroom": "Bagno moderno ed elegante",
+    "air_conditioning": "Aria condizionata",
+    "balcony": "Balcone"
+  },
+  "apartments_page": {
+    "subtitle": "Scopri i nostri accoglienti appartamenti, pensati per offrirti il massimo comfort e relax durante il tuo soggiorno a Lampedusa.",
+    "cta_title": "Richiedi Informazioni o Prenota Ora!",
+    "cta_subtitle": "Contattaci per verificare la disponibilità e ricevere un preventivo personalizzato per la tua vacanza da sogno.",
+    "cta_button": "Richiedi Info & Prenotazioni"
+  },
+  "beaches_page": {
+    "title": "Le Spiagge e le Cale di Lampedusa",
+    "subtitle": "Lampedusa è un gioiello del Mediterraneo, famosa per le sue spiagge mozzafiato e le acque cristalline. Esplora le meraviglie naturali dell'isola, ognuna con il suo fascino unico.",
+    "access_label": "Come raggiungerla:",
+    "distance_label": "Distanza da Via Ariosto 49:",
+    "beach_conigli_name": "Spiaggia dei Conigli",
+    "beach_conigli_desc": "Considerata una delle spiagge più belle del mondo, la Spiaggia dei Conigli è un paradiso naturale con sabbia bianca finissima e acque turchesi. È anche un importante sito di nidificazione per le tartarughe marine Caretta caretta. <strong>Attenzione: per accedere alla spiaggia è obbligatoria la prenotazione.</strong> Puoi effettuarla tramite il sito ufficiale: <a href='https://www.prenotazionespiaggiaconigli.it/' target='_blank' rel='noopener noreferrer' class='text-blue-500 hover:underline'>prenotazionespiaggiaconigli.it</a>.",
+    "beach_conigli_access": "Raggiungibile a piedi tramite un sentiero di circa 20 minuti dal parcheggio, oppure via mare.",
+    "beach_conigli_distance": "Circa 7 km da Via Ariosto 49 (15-20 minuti in auto + camminata).",
+    "beach_pulcino_name": "Cala Pulcino",
+    "beach_pulcino_desc": "Raggiungibile tramite un sentiero panoramico (più impegnativo) o via mare, Cala Pulcino incanta con le sue acque limpide e la natura selvaggia. Un luogo ideale per lo snorkeling e per godere di pace e tranquillità.",
+    "beach_pulcino_access": "Accessibile tramite un sentiero a piedi di circa 40 minuti o via mare con imbarcazioni.",
+    "beach_pulcino_distance": "Circa 8 km da Via Ariosto 49 (20 minuti in auto + camminata).",
+    "beach_croce_name": "Cala Croce",
+    "beach_croce_desc": "Una delle spiagge più accessibili e popolari, con sabbia fine e fondale basso, perfetta per famiglie con bambini. Offre servizi balneari e ristoranti.",
+    "beach_croce_access": "Facilmente raggiungibile in auto o scooter, con parcheggio disponibile.",
+    "beach_croce_distance": "Circa 2 km da Via Ariosto 49 (5 minuti in auto).",
+    "beach_guitgia_name": "Cala Guitgia",
+    "beach_guitgia_desc": "Situata vicino al centro abitato, è una spiaggia di sabbia dorata con acque calme e cristalline. Molto comoda e ben attrezzata.",
+    "beach_guitgia_access": "Raggiungibile a piedi dal centro di Lampedusa o con pochi minuti di auto.",
+    "beach_guitgia_distance": "Circa 1 km da Via Ariosto 49 (2 minuti in auto o 10 minuti a piedi).",
+    "beach_madonna_name": "Cala Madonna",
+    "beach_madonna_desc": "Una piccola e incantevole caletta di sabbia, ideale per chi cerca un angolo di tranquillità. Le sue acque sono trasparenti e invitanti.",
+    "beach_madonna_access": "Accessibile in auto o scooter, con un breve tratto a piedi.",
+    "beach_madonna_distance": "Circa 2.5 km da Via Ariosto 49 (6 minuti in auto).",
+    "beach_greca_name": "Cala Greca",
+    "beach_greca_desc": "Una cala rocciosa con acque profonde e cristalline, perfetta per gli amanti dello snorkeling e delle immersioni. Offre un paesaggio più selvaggio e incontaminato.",
+    "beach_greca_access": "Raggiungibile in auto o scooter, con un breve sentiero roccioso per scendere.",
+    "beach_greca_distance": "Circa 3 km da Via Ariosto 49 (7 minuti in auto).",
+    "beach_creta_name": "Cala Creta",
+    "beach_creta_desc": "Caratterizzata da scogliere e fondali rocciosi, Cala Creta è un luogo suggestivo per nuotare e fare snorkeling. Le sue acque sono di un blu intenso.",
+    "beach_creta_access": "Facilmente raggiungibile in auto o scooter, con accesso diretto al mare da alcune piattaforme.",
+    "beach_creta_distance": "Circa 4 km da Via Ariosto 49 (10 minuti in auto).",
+    "beach_pisana_name": "Cala Pisana",
+    "beach_pisana_desc": "Una piccola baia con un porticciolo turistico, ideale per un bagno rinfrescante e per ammirare le barche. Offre anche un piccolo bar.",
+    "beach_pisana_access": "Raggiungibile in auto o scooter, con parcheggio nelle vicinanze.",
+    "beach_pisana_distance": "Circa 3.5 km da Via Ariosto 49 (8 minuti in auto)."
+  },
+  "photos_page": {
+    "title": "La Nostra Galleria Fotografica"
+  },
+  "contact_page": {
+    "title": "Contattaci e Trovaci",
+    "subtitle": "Hai domande o vuoi prenotare il tuo soggiorno? Compila il modulo sottostante e clicca su 'Invia Messaggio' per aprire la tua applicazione di posta elettronica.",
+    "social_title": "Seguici e Contattaci Direttamente",
+    "form_title": "Modulo di Contatto",
+    "form_name_label": "Nome",
+    "form_name_placeholder": "Il tuo nome",
+    "form_email_label": "Email",
+    "form_email_placeholder": "La tua email",
+    "form_message_label": "Messaggio",
+    "form_message_placeholder": "Il tuo messaggio",
+    "form_button": "Invia Messaggio (Apri Email Client)",
+    "location_title": "Dove Siamo",
+    "tab_location": "Posizione",
+    "tab_directions": "Percorso",
+    "directions_text": "Per calcolare il percorso da un punto di partenza specifico (ad esempio, l'aeroporto o il porto), apri la mappa e usa la funzione 'Indicazioni' di Google Maps.",
+    "map_hint": "Clicca sulla mappa per aprirla in Google Maps e calcolare il percorso."
+  }
+}
